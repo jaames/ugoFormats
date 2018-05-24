@@ -1,0 +1,13 @@
+# Files used for testing
+*.nbf
+*.npf
+*.ntft
+*.tmb
+*.ppm
+*.ugo
+*.html
+
+*.*-cache
+node_modules
+*.log
+.tmp
