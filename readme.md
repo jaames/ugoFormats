@@ -14,9 +14,7 @@ A few people were interested in rendering Flipnote Hatena pages in modern web br
 
 ### Notes
 
-At the moment, the image bitmaps don't support transparency, I *think* this can be fixed by using a more up-to-date DIB header format though (atm I'm using `BITMAPINFOHEADER`).
-
-Also, it's worth pointing out that these parsers are implemented from reverse-engineered specs. I'm pretty certain we've discovered any possible quirks at this point, but if you spot any some behaviour, please raise an issue and be sure to include the file you were having trouble with. Thanks!
+These parsers are implemented from reverse-engineered specs. I'm pretty certain we've discovered any possible quirks at this point, but if you spot any some behaviour, please raise an issue and be sure to include the file you were having trouble with. Thanks!
 
 ### Usage
 
