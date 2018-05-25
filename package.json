@@ -2,9 +2,9 @@
   "name": "ugo-formats",
   "version": "1.0.0",
   "description": "JavaScript API for parsing and rendering the proprietary image and menu formats used by Flipnote Hatena",
-  "main": "dist/index.js",
+  "main": "dist/ugo-formats.js",
   "files": [
-    "dist/index.js"
+    "dist/ugo-formats.js"
   ],
   "scripts": {
     "build": "bili",
